@@ -1,0 +1,9 @@
+<?php 
+	include_once('C:/xampp/htdocs/php15.zent/project_hoa/ban_hang/views/headfoot/header.php');
+ ?>
+<?php 
+	include_once('shop_body.php');
+ ?>
+ <?php 
+	include_once('C:/xampp/htdocs/php15.zent/project_hoa/ban_hang/views/headfoot/footer.php');
+ ?>

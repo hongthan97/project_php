@@ -1,0 +1,9 @@
+<?php 
+	include_once('views/headfoot/header.php');
+ ?>
+<?php 
+	include_once('statistic_body.php');
+ ?>
+ <?php 
+ 	include('views/headfoot/footer.php');
+  ?>
